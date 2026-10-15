@@ -1,0 +1,19 @@
+{
+  "wheel_id": 373,
+  "structure": "umbrella",
+  "slug": "homeloanbrokergoldcoast-com-151",
+  "project": "home-loan-broker-gold-coast-2339876b683c3b0be388c326799773a3",
+  "parent_t1_ref": "homeloanbrokergoldcoast.com-007",
+  "node_role": "buffer",
+  "money_target": "homeloanbrokergoldcoast.com.au",
+  "primary_kw": "home loan broker gold coast",
+  "intended_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/home-loan-broker-gold-coast-2339876b683c3b0be388c326799773a3/",
+  "writeback_nonce": "2cf9a925fe0bedae",
+  "links": [
+    {
+      "target_url": "https://s3.ap-southeast-2.amazonaws.com/homeloanbrokergoldcoast.com-007/home-loan-broker-gold-coast.html",
+      "anchor": "home loan broker gold coast",
+      "rel": "follow"
+    }
+  ]
+}
